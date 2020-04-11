@@ -1,4 +1,4 @@
-<h1><img src="https://img.fortawesome.com/349cfdf6/logo-fa-free.svg" alt="Font Awesome 5 Free" width="50%"></h1>
+<h1><img src="https://image.flaticon.com/icons/png/512/40/40054.png" alt="Font Awesome 5 Free" width="50%"></h1>
 
 > Version 5 – the iconic SVG, font, and CSS framework
 
